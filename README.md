@@ -12,10 +12,6 @@
 - 💬 Ask me about **Python,Django,Laravel,Oop,Mysql**
 
 - 📫 How to reach me **tanvir23anan@gmail.com**
-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-fuad239&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-fuad239" /> </p>
-
-<p align="left"> <a href="https://twitter.com/tanvirfuad77576" target="blank"><img src="https://img.shields.io/twitter/follow/tanvirfuad77576?logo=twitter&style=for-the-badge" alt="tanvirfuad77576" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
