@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm tanvir-fuad239</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<h3 align="center">import WebDeveloper from 'tanvir-fuad239'; import { Languages, Frameworks } from 'tanvir-fuad239/skills'; class Bio extends WebDeveloper { name = 'Khairul Islam Emon'; title = 'Senior Web Developer'; location = 'Dhaka, Bangladesh'; } class Skills extends WebDeveloper { languages = ['JavaScript', 'PHP', ...Languages]; databases = ['MySQL', 'MongoDB']; frameworks = ['React', 'Laravel', ...Frameworks]; }</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-fuad239&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-fuad239" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-fuad239" alt="tanvir-fuad239" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tanvirfuad77576" target="blank"><img src="https://img.shields.io/twitter/follow/tanvirfuad77576?logo=twitter&style=for-the-badge" alt="tanvirfuad77576" /></a> </p>
 
