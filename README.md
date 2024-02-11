@@ -1,5 +1,6 @@
+<!-- language: php -->
 ```php
-<?php
+ 
 class GO_Example_Model_Thing extends GO_Base_Db_ActiveRecord {
 ```
 <h1 align="center">Hi 👋, I'm tanvir-fuad239</h1>
