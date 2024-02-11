@@ -6,7 +6,7 @@
 
    class Bio extends WebDeveloper{
 
-        public $name = "Tanvir Fuad Aanan";
+        public $name = "Tanvir Fuad";
         public $title = "Laravel Web Developer";
         public $location = "Dhaka,Bangladesh";
 
