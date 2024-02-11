@@ -20,16 +20,7 @@
 
    }
 ```
-- 🔭 I’m currently working on [Multivendor E-commerce project](https://github.com/tanvir-fuad239/Multivendor-E-Commerce-using-Laravel/tree/master)
-
-- 🌱 I’m currently learning **Php Laravel**
-
-- 👨‍💻 All of my projects are available at [https://github.com/tanvir-fuad239](https://github.com/tanvir-fuad239)
-
-- 💬 Ask me about **Python,Django,Laravel,Oop,Mysql**
-
-- 📫 How to reach me **tanvir23anan@gmail.com**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanvirfuad77576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvirfuad77576" height="30" width="40" /></a>
