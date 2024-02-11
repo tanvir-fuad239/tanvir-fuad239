@@ -5,7 +5,7 @@
   class Bio extends WebDeveloper{
     public $name = "Tanvir Fuad"
   }
-``
+```
 
 - 🔭 I’m currently working on [Multivendor E-commerce project](https://github.com/tanvir-fuad239/Multivendor-E-Commerce-using-Laravel/tree/master)
 
