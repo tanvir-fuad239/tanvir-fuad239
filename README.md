@@ -1,34 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm tanvir-fuad239</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
- ```php 
-    class Solution {
-
  
-    function kidsWithCandies($candies, $extraCandies) {
-        
-        $resultArray = [];
-        $maxElement = max($candies);
-         
-        for($i = 0; $i < count($candies); $i += 1){
-            if($candies[$i] + $extraCandies >= $maxElement){
-                array_push($resultArray, true);
-            }
-            else{
-                array_push($resultArray, false);
-            }
-        }
-
-        return $resultArray;
-    }
-
-}
-
-$solution = new Solution();
-echo "<pre>";
-var_dump ($solution->kidsWithCandies([4,2,1,1,2], 1));
-```
-
 - 🔭 I’m currently working on [Multivendor E-commerce project](https://github.com/tanvir-fuad239/Multivendor-E-Commerce-using-Laravel/tree/master)
 
 - 🌱 I’m currently learning **Php Laravel**
