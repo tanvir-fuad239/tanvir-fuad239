@@ -15,7 +15,7 @@
    class Expertise extends Skill{
     
         public $languages = ['Javascript','Php',.....Languages];
-        public $databases = ['MySQL','PostgreSQL',.....Databases];
+        public $databases = ['MySQL','PostgreSQL'];
         public $frameworks = ['Laravel','Bootstrap','Django',.....Frameworks]; 
 
    }
