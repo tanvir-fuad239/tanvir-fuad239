@@ -27,7 +27,6 @@
 $solution = new Solution();
 echo "<pre>";
 var_dump ($solution->kidsWithCandies([4,2,1,1,2], 1));
-
 ```
 
 - 🔭 I’m currently working on [Multivendor E-commerce project](https://github.com/tanvir-fuad239/Multivendor-E-Commerce-using-Laravel/tree/master)
