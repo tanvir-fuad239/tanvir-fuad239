@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm tanvir-fuad239</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
- <!-- language: php -->
+<!-- language: php -->
 
 ```php 
    use Github\tanvir-fuad239\WebDeveloper;
@@ -11,6 +9,14 @@
         public $name = "Tanvir Fuad Aanan";
         public $title = "Laravel Web Developer";
         public $location = "Dhaka,Bangladesh";
+
+   }
+
+   class Expertise extends Skill{
+    
+        public $languages = ['Javascript','Php',.....Languages];
+        public $databases = ['MySQL','PostgreSQL'];
+        public $frameworks = ['laravel','Bootstrap','Djanog',.....Frameworks]; 
 
    }
 ```
