@@ -16,7 +16,7 @@
     
         public $languages = ['Javascript','Php',.....Languages];
         public $databases = ['MySQL','PostgreSQL'];
-        public $frameworks = ['laravel','Bootstrap','Django',.....Frameworks]; 
+        public $frameworks = ['Laravel','Bootstrap','Django',.....Frameworks]; 
 
    }
 ```
