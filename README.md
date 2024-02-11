@@ -1,32 +1,26 @@
-<!-- language: php -->
+<h1 align="center">Hi 👋, I'm tanvir-fuad239</h1>
+<h3 align="center">A passionate backend developer from Bangladesh</h3>
 
-```php 
-   use Github\tanvir-fuad239\WebDeveloper;
-   use Github\tanvir-fuad239\Skill;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-fuad239&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-fuad239" /> </p>
 
-   class Bio extends WebDeveloper{
+<p align="left"> <a href="https://twitter.com/tanvirfuad77576" target="blank"><img src="https://img.shields.io/twitter/follow/tanvirfuad77576?logo=twitter&style=for-the-badge" alt="tanvirfuad77576" /></a> </p>
 
-        public $name = "Tanvir Fuad";
-        public $title = "Laravel Web Developer";
-        public $location = "Dhaka,Bangladesh";
+- 🔭 I’m currently working on [Multivendor E-commerce project](https://github.com/tanvir-fuad239/Multivendor-E-Commerce-using-Laravel/tree/master)
 
-   }
+- 🌱 I’m currently learning **Php Laravel**
 
-   class Expertise extends Skill{
-    
-        public $languages = ['Javascript','Php','Oop',.....Languages];
-        public $databases = ['MySQL','PostgreSQL'];
-        public $frameworks = ['Laravel','Bootstrap','Jquery',.....Frameworks]; 
+- 👨‍💻 All of my projects are available at [https://github.com/tanvir-fuad239](https://github.com/tanvir-fuad239)
 
-   }
-```
- 
+- 💬 Ask me about **Python,Django,Laravel,Oop,Mysql**
+
+- 📫 How to reach me **tanvir23anan@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanvirfuad77576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvirfuad77576" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16429367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16429367" height="30" width="40" /></a>
 <a href="https://fb.com/tanvir.fuad.239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir.fuad.239" height="30" width="40" /></a>
 <a href="https://instagram.com/tanvir.fuad.239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanvir.fuad.239" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16429367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16429367" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tanvir_fuad239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tanvir_fuad239" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanvir23anan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanvir23anan" height="30" width="40" /></a>
 </p>
