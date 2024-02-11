@@ -14,9 +14,9 @@
 
    class Expertise extends Skill{
     
-        public $languages = ['Javascript','Php',.....Languages];
+        public $languages = ['Javascript','Php','Oop',.....Languages];
         public $databases = ['MySQL','PostgreSQL'];
-        public $frameworks = ['laravel','Bootstrap','Django',.....Frameworks]; 
+        public $frameworks = ['Laravel','Bootstrap','Jquery',.....Frameworks]; 
 
    }
 ```
